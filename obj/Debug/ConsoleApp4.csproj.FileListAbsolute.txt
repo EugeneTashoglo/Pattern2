@@ -1,0 +1,7 @@
+C:\Users\kbk.local\Desktop\Раб.стол\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\kbk.local\Desktop\Раб.стол\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\kbk.local\Desktop\Раб.стол\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\kbk.local\Desktop\Раб.стол\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\kbk.local\Desktop\Раб.стол\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\kbk.local\Desktop\Раб.стол\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\kbk.local\Desktop\Раб.стол\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
